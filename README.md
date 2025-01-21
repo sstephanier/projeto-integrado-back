@@ -12,4 +12,4 @@ Link do front: https://github.com/sstephanier/projeto-integrado-front
 
 Link do Surge : https://projeto-integrado-front-sstephanie.surge.sh
 
-- Maria Stephanie Rodrigues Pereira
+- Maria Stephanie
